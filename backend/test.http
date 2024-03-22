@@ -1,0 +1,12 @@
+POST http://localhost:4000/app/book
+Content-Type: application/json
+
+{
+    "firstname":"avanthi",
+    "lastname":"musunuri",
+    "email":"avanthi@mail.com",
+    "phone":"9398131076",
+    "numberofguests":"8",
+    "bookingdate":"03-11-2022",
+    "bookingtime":"4pm"
+}
